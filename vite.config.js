@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/<NewGitVite>/', // Replace with your repo name
+  base: '/NewGitVite/', // Replace with your repo name
 });
